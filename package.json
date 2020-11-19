@@ -11,6 +11,7 @@
     "eject": "react-scripts eject",
     "nc": "new-component"
   },
+  "proxy": "http://localhost:5678",
   "eslintConfig": {
     "extends": "react-app"
   },
@@ -24,10 +25,11 @@
     "date-fns": "^1.30.1",
     "focus-visible": "^4.1.5",
     "immer": "^6.0.2",
-    "isomorphic-fetch": "^2.2.1",
+    "isomorphic-fetch": "^3.0.0",
     "new-component": "^1.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-icons": "^3.11.0",
     "react-loader-spinner": "^3.1.5",
     "react-play-button": "0.2.2",
     "react-redux": "^7.2.0",
